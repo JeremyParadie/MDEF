@@ -5,6 +5,8 @@ publish: true
 
 Welcome to my [MDEF repository](https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/About/MDEF+Repository). This is where I will document my studies during the 2021-2022 Master in Design for Emergent Futures (MDEF) program at the Institute for Advanced Architecture of Catalonia (IAAC) in collaboration with Fab Lab Barcelona and the Elisava School of Design and Engineering in Barcelona, Spain.
 
+testing
+
 #### About me
 - [[About me]]
 - [Website](https://www.jeremyparadie.com/)
